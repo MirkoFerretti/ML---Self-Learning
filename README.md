@@ -8,3 +8,4 @@ So far I have uploaded:
 * A simple color recognition program
 * A Kaggle Playground Series competition, which is Binary classification with a bank churn dataset.
 * A simple recommender system
+* 2 different versions of the Kaggle competition of Multi-Class classification of Obesity Risk. 
